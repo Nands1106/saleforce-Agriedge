@@ -1,5 +1,6 @@
 " REVOLUTIONIZING AGRICULTURE WITH AGRI EDGE OR MANAGE LTD : A SALEFORCE DRIVEN ORDER MANAGEMENT SOLUTIONS."
-Overall Implementation:
+
+ Overall Implementation:
 
 AgriEdge Or-Mange Ltd aims to enhance agricultural supply chain
 efficiency using Salesforce.
